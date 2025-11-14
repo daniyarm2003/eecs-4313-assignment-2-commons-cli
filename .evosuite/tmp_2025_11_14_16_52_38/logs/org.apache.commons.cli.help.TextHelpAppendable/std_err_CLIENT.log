@@ -1,0 +1,8 @@
+[MASTER] 17:03:04.946 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.LinkedList<E> : Type points to itself
+[MASTER] 17:03:04.946 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.ArrayDeque<E> : Type points to itself
+[MASTER] 17:03:04.946 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.PriorityQueue<E> : Type points to itself
+[MASTER] 17:03:04.946 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.List<E> : Type points to itself
+[MASTER] 17:03:05.195 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.lang.Iterable<T> : Type points to itself
+[MASTER] 17:03:05.899 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.Comparator<T> : Type points to itself
+[MASTER] 17:03:06.297 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.function.Function<T, R> : Type points to itself
+[MASTER] 17:03:18.895 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.Queue<E> : Type points to itself
